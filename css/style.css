@@ -1,0 +1,172 @@
+.header img {
+    width: 100%;
+}
+
+.header ul {
+    display: flex;
+    list-style: none;
+    padding: 1px;
+    text-align: center;
+    background-color: darkblue;
+    
+}
+
+.header ul li {
+   padding: 15px;
+}
+.header ul li a {
+    color: white;
+    text-decoration: none;
+    padding: 16px;
+}
+
+.header a:hover {
+    background-color: rgb(55, 194, 55);
+    
+}
+
+.nav {
+    display: flex;
+    justify-content: space-between;
+}
+
+.header h1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.header-1 {
+    border: 4px solid gold;
+    width: 350px;
+    height: 320px;
+}
+
+.header-1 img {
+    width: 350px;
+    height: 250px;
+}
+
+.header-2 {
+    border: 4px solid gold;
+    width: 350px;
+    height: 320px;
+}
+
+.header-2 img {
+    width: 350px;
+    height: 250px;
+}
+
+.header-3 {
+    border: 4px solid gold;
+    width: 350px;
+    height: 320px;
+}
+
+.header-3 img {
+    width: 350px;
+    height: 250px;
+}
+
+.header-4 {
+    border: 4px solid gold;
+    width: 350px;
+    height: 320px;
+}
+
+.header-4 img {
+    width: 350px;
+    height: 250px;
+}
+
+.nav-1 p {
+    padding: 1px;
+    color: white;
+    background-color: darkblue;
+}
+
+.nav-2 h1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.nav-3 {
+    border: 4px solid gold;
+    width: 350px;
+    height: 320px;
+}
+
+.nav-3 img {
+    width: 350px;
+    height: 250px;
+}
+
+.nav-4 {
+    border: 4px solid gold;
+    width: 350px;
+    height: 320px;
+}
+
+.nav-4 img {
+    width: 350px;
+    height: 250px;
+}
+
+.nav-5 {
+    border: 4px solid gold;
+    width: 350px;
+    height: 320px;
+}
+
+.nav-5 img {
+    width: 350px;
+    height: 250px;
+}
+
+.nav-6 {
+    border: 4px solid gold;
+    width: 350px;
+    height: 320px;
+    
+}
+
+.nav-6 img {
+    width: 350px;
+    height: 250px;
+}
+
+.header-6 {
+    border: 4px solid gold;
+    width: 350px;
+    height: 320px;
+    
+}
+
+.header-6 img {
+    width: 350px;
+    height: 250px;
+}
+
+.header-8 {
+    background-color: darkblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    margin-top: 10px;
+}
+
+.header-7 img {
+    width: 80px;
+}
+
+.header-7 h3 {
+    font-size: 30px;
+    color: white;
+}
+
+
+
+

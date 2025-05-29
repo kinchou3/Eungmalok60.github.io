@@ -1,0 +1,65 @@
+table {
+    width: 90%;
+    border-collapse: collapse;
+} 
+
+
+
+.header-1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.header img {
+    width: 20%;
+    height: 10%;
+}
+
+th,td {
+    text-align: center;
+    padding: 10px;
+}
+
+.nav-1 {
+    font-family: "Moul", serif;
+    font-size: 22px;
+}
+
+
+.nav-1 h3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+img {
+    border-radius: 7px;
+}
+
+.nav-4 {
+    background-color: darkblue;
+}
+
+.header-4 img {
+    width: 80px;
+    margin: 10px;
+    text-align: center;
+
+}
+
+.header-4 p {
+    color: white;
+    text-align: center;
+}
+
+
+
+
+
